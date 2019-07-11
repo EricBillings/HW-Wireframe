@@ -12,10 +12,39 @@ body {
 
 }
 
-header,
-nav,
-section,
-aside,
+h1  {
+    font-size: 18px;
+}
+
+header  {
+    background: #ebebeb;
+    text-align: center;
+    font-size: 18px;
+    padding: 40px;
+    margin-bottom: 10px;
+    height: 100px;
+        
+}
+
+nav {
+    background: #ebebeb;
+    text-align: center;
+    font-size: 18px;
+    padding: 40px;
+    margin-bottom: 10px;
+    height: 100px;
+
+}
+
+section {
+    background: #ebebeb;
+    
+}
+
+aside   {
+    background: #ebebeb;
+}
+
 footer  {
     background: #ebebeb;
 
@@ -30,3 +59,4 @@ article {
 section {
     width: 495px;
 }
+
