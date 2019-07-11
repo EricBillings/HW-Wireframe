@@ -36,12 +36,19 @@ nav {
 
 }
 
+/*.middle-section {
+    width: 100%;
+}*/
+
 section {
     background: #ebebeb;
+    width: 500px;
+    height: 350px;
     text-align: center;
     font-size: 18px;
     padding: 40px;
-    margin: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
     float: left;
     
 }
@@ -50,10 +57,12 @@ section {
 
 aside   {
     background: #ebebeb;
+    width: 440px;
+    height: 350px;
     text-align: center;
     font-size: 18px;
     padding: 40px;
-    margin: 10px;
+    margin-bottom: 20px;
     float: left;
 }
 
@@ -62,6 +71,7 @@ aside   {
 article {
     color: #ebebeb;
     background: #777;
+    height: 250px;
     text-align: center;
     font-size: 18px;
     padding: 40px;
@@ -70,7 +80,8 @@ article {
     
 }
 
-p   {
+p,
+h1   {
     background: #ebebeb;
     color: #777;
     text-align: center;
